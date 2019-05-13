@@ -5,8 +5,8 @@ description: > # this means to ignore newlines until "baseurl:"
   My 100 days of code blog
 
 # social links
-twitter_username: @oculzac
-github_username:  @oculzac
+twitter_username: oculzac
+github_username:  oculzac
 
 show_excerpts: true # set to false to remove excerpts on the homepage
 
